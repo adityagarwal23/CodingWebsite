@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class firstTutorial {
     public static void main(String[] args) {
         System.out.println("Welcome to Learning Object Oriented Programming!");
         Scanner input = new Scanner(System.in);
