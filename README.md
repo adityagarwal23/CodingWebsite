@@ -1,1 +1,2 @@
 # CodingWebsite
+Basic Object Oriented Programming Website created by Aditya Agarwal and Logan Mann. We have made this website to help eliminate the barrier there might be to learn programming. We appreciate any feedback given to us. 
